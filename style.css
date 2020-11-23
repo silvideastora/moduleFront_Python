@@ -1,0 +1,31 @@
+header {
+    background-color: rgb(76, 43, 226);
+    border: red 1px solid;
+    color: white;
+    padding: 6px;
+}
+nav{
+    background-color: orange;
+    border: green 5px solid;
+    color: black;
+    margin: 15px;
+    padding-bottom: 10px;
+
+}
+
+aside{
+    background-color: orange;
+    border: red 1px solid;
+    display: inline-block;
+    width: 20%;
+
+
+}
+
+main{
+    background-color: orangered;
+    border: blue 1px solid;
+    display: inline-block;
+    width: 60%;
+
+}
